@@ -1,0 +1,6 @@
+outs:
+- md5: 15049d0425c835d0922f58ac0473bb71.dir
+  size: 119806333
+  nfiles: 3000
+  hash: md5
+  path: dummy_data
