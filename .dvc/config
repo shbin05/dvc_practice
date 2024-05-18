@@ -1,6 +1,6 @@
 [core]
-    remote = google_drive2
+    remote = google_drive
 ['remote "local_storage"']
     url = ../../Storage
-['remote "google_drive2"']
-    url = gdrive://1G--gm7RY2wEl-Ln8XgAxlXLXCffndcao
+['remote "google_drive"']
+    url = gdrive://1M66wWkBdz22-UzJ2R8pTWl3ZWrgC27Ut
