@@ -10,8 +10,8 @@ def create_dummy(num_images, image_size, path):
         save_path = os.path.join(path, f'dummy_{i}.jpeg')
         save_image(image_data, save_path)
 
-num_images = 3000 
+num_images = 1000 
 image_size = 256  
-output_path = 'dummy_data' 
+output_path = 'assignment/2' 
 
 create_dummy(num_images, image_size, output_path)
